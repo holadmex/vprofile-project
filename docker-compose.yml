@@ -46,5 +46,5 @@ services:
       - vproappdata:/usr/local/tomcat/webapps/
 
 volumes:
-   vproalldbdata: {}
+   vprodbdata: {}
    vproappdata: {}
